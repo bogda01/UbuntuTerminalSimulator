@@ -1,0 +1,47 @@
+
+AM INTRAT IN OWN
+total 104
+-rwx------ 1 bogda bogda   169 ian  8 01:09 abcd.txt
+-rwxrwxr-x 1 bogda bogda    76 ian  6 16:21 abc.txt
+-rwxrwxr-x 1 bogda bogda 17512 dec 13 21:29 a.out
+-rwxrwxr-x 1 bogda bogda 16704 ian  8 00:47 ciorna
+-rwx------ 1 bogda bogda     0 ian  8 01:46 ciorna2.txt
+-rw-rw-r-- 1 bogda bogda   195 ian  8 00:47 ciorna.c
+-rwxrwxr-x 1 bogda bogda 26968 ian  8 01:45 proj
+-rw-rw-r-- 1 bogda bogda 18114 ian  8 01:45 proj.c
+-rwx------ 1 bogda bogda     0 ian  8 01:46 stdout.txt
+-rw-rw-r-- 1 bogda bogda    75 ian  7 23:03 text.txt
+
+AM INTRAT IN OWN
+fdasdfsadsadsa
+gfdsssssgfdsgfxvc
+sdar432r24r43wf
+dfv34wv454gv
+dafv43253grdh
+AM INTRAT IN OWN
+abcd.txt
+abc.txt
+a.out
+ciorna
+ciorna2.txt
+ciorna.c
+proj
+proj.c
+stdout.txt
+text.txt
+
+AM INTRAT IN OWN
+
+AM ITNRAT IN IF LA -I
+/n abcd.txt /n
+AM INTRAT IN OWN
+abcd.			txt
+abc.txt	asdf         asdsa
+a.out
+ciorna
+ciorna.c
+proj
+proj.               c
+stdout.					    txt
+text.txt
+/n abcd.txt /n

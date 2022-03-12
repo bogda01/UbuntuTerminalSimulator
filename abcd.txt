@@ -1,0 +1,12 @@
+/n abcd.txt /n
+	AM INTRAT IN OWN
+abcd.			txt
+abc.txt	asdf         asdsa
+	a.out
+	ciorna
+ciorna.c
+proj
+	proj.               c
+	stdout.					    txt
+text.txt
+/n abcd.txt /n
